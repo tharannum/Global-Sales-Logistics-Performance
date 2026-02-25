@@ -1,5 +1,5 @@
 # 📊 Global Sales & Logistics Performance Dashboard (Power BI)
-
+![Global Sales & Logistics Performance Dashboard](https://github.com/tharannum/Global-Sales-Logistics-Performance/blob/main/Global%20Sales%20%26%20Logistics%20Performance%20Dashboard.png)
 ## Executive Summary  
 
 Global sales and logistics operations generate large volumes of transactional, financial, and operational data across products, shipping modes, and geographic regions. However, without structured analytics, organizations struggle to understand revenue drivers, profit margins, and logistics cost efficiency.  
@@ -224,4 +224,4 @@ This dashboard enables organizations to optimize sales strategy, reduce logistic
 
 ## 📷 Dashboard Preview  
 
-![Global Sales & Logistics Performance Dashboard](dashboard.png)
+![Global Sales & Logistics Performance Dashboard](https://github.com/tharannum/Global-Sales-Logistics-Performance/blob/main/Global%20Sales%20%26%20Logistics%20Performance%20Dashboard.png)
